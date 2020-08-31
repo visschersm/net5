@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "target-typed-test/1.0.0": {
+        "runtime": {
+          "target-typed-test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "target-typed-test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

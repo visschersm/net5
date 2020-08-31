@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "advanced-record-test/1.0.0": {
+        "runtime": {
+          "advanced-record-test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "advanced-record-test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

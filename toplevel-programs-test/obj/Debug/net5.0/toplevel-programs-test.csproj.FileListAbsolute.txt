@@ -1,0 +1,14 @@
+C:\GitHub\CSharp\net5\toplevel-programs-test\bin\Debug\net5.0\toplevel-programs-test.exe
+C:\GitHub\CSharp\net5\toplevel-programs-test\bin\Debug\net5.0\toplevel-programs-test.deps.json
+C:\GitHub\CSharp\net5\toplevel-programs-test\bin\Debug\net5.0\toplevel-programs-test.runtimeconfig.json
+C:\GitHub\CSharp\net5\toplevel-programs-test\bin\Debug\net5.0\toplevel-programs-test.runtimeconfig.dev.json
+C:\GitHub\CSharp\net5\toplevel-programs-test\bin\Debug\net5.0\toplevel-programs-test.dll
+C:\GitHub\CSharp\net5\toplevel-programs-test\bin\Debug\net5.0\toplevel-programs-test.pdb
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.csprojAssemblyReference.cache
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.AssemblyInfoInputs.cache
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.AssemblyInfo.cs
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.dll
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.pdb
+C:\GitHub\CSharp\net5\toplevel-programs-test\obj\Debug\net5.0\toplevel-programs-test.genruntimeconfig.cache
