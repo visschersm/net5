@@ -1,5 +1,0 @@
-C:\GitHub\CSharp\net5\pattern-matching-test\obj\Debug\net5.0\pattern-matching-test.csprojAssemblyReference.cache
-C:\GitHub\CSharp\net5\pattern-matching-test\obj\Debug\net5.0\pattern-matching-test.GeneratedMSBuildEditorConfig.editorconfig
-C:\GitHub\CSharp\net5\pattern-matching-test\obj\Debug\net5.0\pattern-matching-test.AssemblyInfoInputs.cache
-C:\GitHub\CSharp\net5\pattern-matching-test\obj\Debug\net5.0\pattern-matching-test.AssemblyInfo.cs
-C:\GitHub\CSharp\net5\pattern-matching-test\obj\Debug\net5.0\pattern-matching-test.csproj.CoreCompileInputs.cache
